@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "dadang",
+      "course": "deedng",
+      "score": "77",
+      "id": 2
+    },
+    {
+      "name": "maman",
+      "course": "mimin",
+      "score": "82",
+      "id": 3
+    },
+    {
+      "name": "mamang daya",
+      "course": "pkn",
+      "score": "92",
+      "id": 4
+    },
+    {
+      "name": "maman",
+      "course": "mumun",
+      "score": "99",
+      "id": 5
+    }
+  ]
+}
